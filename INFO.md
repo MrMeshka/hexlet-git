@@ -1,4 +1,10 @@
-git is awesome!
-new line
-experiment with amend
-experiment with amend
+example
+1
+2
+3
+4
+5
+6
+7
+8
+!!!
